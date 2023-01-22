@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EasyParking</string>
+    <string name="title_activity_maps">EasyParking</string>
+    <string name="take">Take Picture</string>
+    <string name="park">Park</string>
+    <string name="cancel">Cancel</string>
+    <string name="park_now">Park Now</string>
+    <string name="view_loc">View Locations</string>
+    <string name="view">View</string>
+
+
+
+</resources>
